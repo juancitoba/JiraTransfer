@@ -1,0 +1,3 @@
+1. This is a very useful tool to avoid repetive tasks in your job. 
+2. The main duty is to copy a list of issues and workloads from one JIRA environment and paste it (after a serious of transformations) on another one.
+3. Consider the config.ini file that should be adapted based on the JIRA setup, and also the dictionary generated to insert new issues in the JIRA target
